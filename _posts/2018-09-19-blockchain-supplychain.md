@@ -1,5 +1,5 @@
 ---
-title: "Episode 11: Guillermo Pardon of CaseStack on what Blockchain can do for logistics and supply chain"
+title: "Episode 11: CTO of CaseStack on what Blockchain can do for logistics and supply chain"
 layout: post
 date: 2018-09-19
 permalink: using-blockchain-for-supplychain
