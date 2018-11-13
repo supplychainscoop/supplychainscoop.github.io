@@ -13,7 +13,7 @@ tag:
 category: blog
 
 ---
-#### With Guest Speaker: Jim Tompkins, Founder of Tompkins International Consulting
+## With Guest Speaker: Jim Tompkins, Founder of Tompkins International Consulting
 
  
 

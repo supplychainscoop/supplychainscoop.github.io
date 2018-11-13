@@ -14,7 +14,7 @@ tag:
 category: blog
 
 ---
-#### With Guest Speaker: Sucharita Kodali,Vice President and Principal Analyst at Forrester Research. 
+## With Guest Speaker: Sucharita Kodali,Vice President and Principal Analyst at Forrester Research. 
 #### Priyanka talks to to Sucharita about surprising developments in retail over the years, how the role of the stores is changing, which technologies are transforming supply chain, how a retailer can keep up with customer behaviour and how has the retail organizational set up changed over the years as a result of “omnichannel”. 
 
 

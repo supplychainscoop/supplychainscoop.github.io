@@ -14,7 +14,7 @@ tag:
 category: blog
 
 ---
-#### With Guest Speaker: Rob Bass, Chief Supply Chain Officer, Best Buy
+## With Guest Speaker: Rob Bass, Chief Supply Chain Officer, Best Buy
 
 #### Priyanka talks to Rob Bass, CSCO of Best Buy, on the entire journey and experience of the supply chain overhaul Best Buy went through over the last 5 years pulling it out of the brinks of bad business performance to a thriving force in consumer electronics today! Rob discusses what the key factors to success are for supply chain leaders looking to disrupt and keep up with change.
 

@@ -14,7 +14,7 @@ tag:
 category: blog
 
 ---
-#### With Guest Speaker: Guillermo Pardon, CTO of CaseStack
+## With Guest Speaker: Guillermo Pardon, CTO of CaseStack
 #### Priyanka talks to the Chief Technology Officer of CaseStack. He has been at CaseStack for over 17 years and in technology for over 20 years. 
 
 I talked to Guillermo about blockchain in logistics and supply chain. We start from the very basic question of “what is blockchain and how do you explain it to your grandmother” and go on to discussing tangible examples of its application in supply chain as well as the biggest challenges it faces currently.

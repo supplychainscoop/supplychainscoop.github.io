@@ -13,7 +13,7 @@ tag:
 category: blog
 
 ---
-#### With Guest Speaker:  Charles Brewer, CEO of DHL eCommerce. 
+## With Guest Speaker:  Charles Brewer, CEO of DHL eCommerce. 
 #### Priyanka talks with Charles Brewer, CEO of DHL eCommerce. He has been in the industry 34 years now, and currently responsible for the Americas, APAC, Middle East and Africa regions.
 
 Charles is very passionate about eCommerce and has a personal blog at [www.future-of-ecommerce.com](http://www.future-of-ecommerce.com) – on top of which it says What’s Brewing!! That is brilliant – who doesn’t love a good pun. 
