@@ -1,8 +1,8 @@
 ---
-title: "Episode 16: MedMen COO on handling regulations and scaling in a nascent industry"
+title: "Episode 16: Supply chain veteran Ben Cook on moving iPhones to moving cannabis"
 layout: post
 date: 2018-12-19
-permalink: medmen-supplychain-regulations
+permalink: supplychain-veteran-ben-cook
 image: "http://i1.sndcdn.com/avatars-000457590984-xbxok8-original.jpg"
 description: Priyanka talks to Ben Cook – COO of MedMen – the largest cannabis company in the US. But let us back up a little bit here and address the legend that is, Ben Cook! 
 headerImage: false
